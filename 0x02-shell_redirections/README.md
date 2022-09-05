@@ -1,1 +1,1 @@
-this ois on echo folder
+my first shell redirection readme
